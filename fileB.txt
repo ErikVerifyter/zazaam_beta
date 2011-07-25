@@ -1,0 +1,13 @@
+init
+
+//if A = 2 then b = 1
+
+if b = 2 then c = 3
+
+if c = 2 then
+{
+ 	e = 2;
+	f = 3;
+}
+
+
