@@ -1,1 +1,3 @@
 init
+
+if A = 2 then b = 2
