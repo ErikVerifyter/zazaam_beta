@@ -1,6 +1,6 @@
 init
 
-if A = 2 then b = 1
+//if A = 2 then b = 1
 
 if b = 2 then c = 3
 
